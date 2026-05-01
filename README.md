@@ -1,0 +1,1 @@
+Store Annual Report Dashboard in Microsoft Excel summarizes yearly performance with key metrics like sales, profit, trends, and inventory. Interactive charts and filters enable quick analysis, helping management make data-driven decisions and improve overall business growth
